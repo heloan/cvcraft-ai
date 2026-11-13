@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+.env
+*.log
+
+# Personal data: resumes and exports never go to this public repository
+data/
+*.pdf
+*.docx
